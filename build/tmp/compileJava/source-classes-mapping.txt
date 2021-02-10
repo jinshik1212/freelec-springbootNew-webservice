@@ -1,0 +1,25 @@
+com/jskim/book/springboot/web/dto/PostsUpdateRequestDto.java
+ com.jskim.book.springboot.web.dto.PostsUpdateRequestDto
+ com.jskim.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/jskim/book/springboot/Application.java
+ com.jskim.book.springboot.Application
+com/jskim/book/springboot/web/dto/PostsSaveRequestDto.java
+ com.jskim.book.springboot.web.dto.PostsSaveRequestDto
+ com.jskim.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/jskim/book/springboot/domain/BaseTimeEntity.java
+ com.jskim.book.springboot.domain.BaseTimeEntity
+com/jskim/book/springboot/web/dto/PostsResponseDto.java
+ com.jskim.book.springboot.web.dto.PostsResponseDto
+com/jskim/book/springboot/domain/posts/Posts.java
+ com.jskim.book.springboot.domain.posts.Posts
+ com.jskim.book.springboot.domain.posts.Posts$PostsBuilder
+com/jskim/book/springboot/domain/posts/PostsRepository.java
+ com.jskim.book.springboot.domain.posts.PostsRepository
+com/jskim/book/springboot/web/dto/PostsListResponseDto.java
+ com.jskim.book.springboot.web.dto.PostsListResponseDto
+com/jskim/book/springboot/service/PostsService.java
+ com.jskim.book.springboot.service.PostsService
+com/jskim/book/springboot/web/IndexController.java
+ com.jskim.book.springboot.web.IndexController
+com/jskim/book/springboot/web/PostApiController.java
+ com.jskim.book.springboot.web.PostApiController
