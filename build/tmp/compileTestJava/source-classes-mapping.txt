@@ -1,6 +1,0 @@
-com/jskim/book/springboot/domain/posts/PostsRepositoryTest.java
- com.jskim.book.springboot.domain.posts.PostsRepositoryTest
-com/jskim/book/springboot/web/IndexControllerTest.java
- com.jskim.book.springboot.web.IndexControllerTest
-com/jskim/book/springboot/web/PostsApiControllerTest.java
- com.jskim.book.springboot.web.PostsApiControllerTest
