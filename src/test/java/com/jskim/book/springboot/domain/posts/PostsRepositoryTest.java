@@ -6,11 +6,13 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
+import org.springframework.test.context.web.WebAppConfiguration;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -50,7 +52,7 @@ public class PostsRepositoryTest {
     @Test
     public void BaseTimeEntity_Register() {
         //given
-        LocalDateTime now = LocalDateTime.of(2021,2,8,0,0,0);
+        LocalDateTime now = LocalDateTime.of(2021,2,16,0,0,0);
         postsRepository.save(Posts.builder()
                 .title("title")
                 .content("content")
